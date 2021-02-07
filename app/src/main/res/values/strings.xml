@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Class Activty 3</string>
+    <string name="go"> Go </string>
+    <string name="cityName">Enter City Name</string>
+    <string name="dateTime">Date and Time</string>
+    <string name="description">Description</string>
+    <string name="feelsLike">Feels Like</string>
+</resources>
